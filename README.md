@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <img width="550px" alt="Rozanee Kanta Das Github Stats"  src="https://github-readme-stats.vercel.app/api?username=rozaneekantadas&show_icons=true"/>
 
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=rozaneekantadas&card_width=550)](https://github.com/rozaneekantadas/Rozanee-Kanta-Das)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=rozaneekantadas&card_width=550)](https://github.com/rozaneekantadas)
